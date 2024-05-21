@@ -2,9 +2,20 @@ h1, h2, p {
     text-align: center;
 }
 
-body{background-color: burlywood;}
+body{background-color: burlywood;
+    background-image: url("coffeebeans.jpg");
+}
 
 #menu {
-    width: 300px;
+    width: 85%;
     margin: auto ;
+    background-color: burlywood;
+}
+
+.flavor {
+    text-align: left;
+}
+
+.price {
+    text-align: right;
 }
